@@ -10,6 +10,7 @@ public class HelloWorld {
 	@ResponseBody
 	@RequestMapping("hello")
 	public String hello() {
+		String aaa = "dasd";
 		return "hellodqwdwqdqwdqwd1111dqwqwdaAAAA";
 	}
 }
